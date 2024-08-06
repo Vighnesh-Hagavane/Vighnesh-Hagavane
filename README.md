@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bank Management**
 
-- 👨‍💻 All of my projects are available at [https://vighnesh-hagavane.github.io/vcard-personal-portfolio/](https://vighnesh-hagavane.github.io/vcard-personal-portfolio/)
+- 👨‍💻 All of my projects  [https://vighnesh-hagavane.github.io/vcard-personal-portfolio/](https://vighnesh-hagavane.github.io/vcard-personal-portfolio/)[https://vighnesh-hagavane.github.io/NGO-Connect/](https://vighnesh-hagavane.github.io/NGO-Connect/)
 
 - 💬 Ask me about **Android OS ,Frontend Design and Development**
 
